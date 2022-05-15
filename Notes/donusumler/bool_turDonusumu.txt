@@ -1,0 +1,17 @@
+bool x =true;
+int y =Convert.ToInt32(x);
+System.Console.WriteLine(y);
+bool f =false;
+int z =Convert.ToInt32(f);
+System.Console.WriteLine(z);
+
+Elimizdeki mantiksal degeri herhangi bir sayisal degere Convert
+edersek sayisal degerini elde ederiz
+
+
+sayisal degerleri bool turune donusumu
+int i =-123;
+bool b = Convert.ToBoolean(i);
+
+0 disindaki her sayisal deger = true
+0 ise  = false'digerlerine

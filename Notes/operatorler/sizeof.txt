@@ -1,0 +1,5 @@
+verilen turun bellekte kac bytlik yert kapladigini integer olarak geriye donduru.
+cw(sizeof(int))
+cw(sizeof(long))
+cw(sizeof(decimel))
+

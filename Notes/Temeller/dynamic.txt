@@ -1,0 +1,15 @@
+dynamic var'a cok benzer
+
+dynamic kullandigimizda ilk deger atamasi yapmamiza gerek yoktur
+1.)Var compiler asamasinda degerin turune burunurken , dynamic runtimeda ilgili degerin turune burunur.
+2.)Runtimeda degerin tipi belirli oldugu icin code icersinde methodlarina ve propertylerine ulasamayiz fakat var keywordu ulasmamizi saglar cunku variable type'i compilerdan once secilmistir.
+
+dynamic keywordu runtimeda turu degistirme imkani saglar
+
+nerelerde tercih edilir:
+
+turunun bilmedigimiz bir datayi dynamic ile karsilayabiliriz
+var keywordu ile yapamayiz cunku tanimlandigi anda var kulanabiliriz
+
+
+

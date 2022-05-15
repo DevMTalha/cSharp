@@ -1,0 +1,8 @@
+degisken , karsilayici = islem yapan deger donduren veya ,direk deger
+
+int a =5;
+ 
+ noktali virgul operatoru ";"
+
+c# progmralama dilinde codun conseptinin bittigini ifade eder
+ int a = 5 ; 

@@ -1,0 +1,18 @@
+Ram:
+:Variable'lar ramda veri tutmamizi saglar
+
+Variable'larin turleri belirli olmalidir
+
+degisken tanimlama
+degisken_turu degisken_adi;
+
+--
+variable name and it's value covered in stack partition of ram
+methodlarin bellek adresleri ve valuetype variablelar stackde tutulur
+@ operatoriyle  tanimlamanan variable'larda variable ismini keyword verebilirsin
+
+
+degisken atama yontemleri
+-
+decimal type variable'larda atanan degerin sonuna m Yada M suffix konulur
+

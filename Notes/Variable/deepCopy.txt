@@ -1,0 +1,5 @@
+Deep copy'de degeri clonlariz.
+int a =5;
+int b = a;
+value tpye variablelarda deep copy olur
+

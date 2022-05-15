@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\bin\Debug\net6.0\MainFunction.exe
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\bin\Debug\net6.0\MainFunction.deps.json
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\bin\Debug\net6.0\MainFunction.runtimeconfig.json
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\bin\Debug\net6.0\MainFunction.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\bin\Debug\net6.0\MainFunction.pdb
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.AssemblyInfo.cs
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\refint\MainFunction.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.pdb
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\MainFunction.genruntimeconfig.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\MainFunction\MainFunction\obj\Debug\net6.0\ref\MainFunction.dll

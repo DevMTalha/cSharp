@@ -1,0 +1,25 @@
+Top Level Statements
+--
+using System;
+.
+.
+.
+.
+.
+
+end
+
+
+:Siradan bir code icin bile basmakalip codelar gelmelidir
+-Bu yıgından kurtulmak için
+!C# 9.0 ıle maın functıon ımzası tanımlanması kaldırıldı
+!Developer'a baglidir
+
+Kurallar:
+-Using block ile Namespace arasinda yazilabilir
+-Sadece program.cs icin gecerlidir
+-Derledikten sonra yazilan codelar Main Function altinda yer alicaktir
+-Codelarin maın Function'da oldugunu program.cs dosyasinda oldugu icin algilanir
+
+Top Level Statements
+-Genellikle Microservice yapilanmasinda hiz kazandirici nitelige sahiptir

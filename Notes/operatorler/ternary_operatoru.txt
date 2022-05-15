@@ -1,0 +1,24 @@
+----------- "condition ? return if true( return value)    :else (return value)"--------------
+.............sart/durum ? true ise : false ise ;
+
+
+
+bir degiskene methoda yada propertiye deger atarken eger bu deger sarta gore fark edikce 
+satir bazli/tek satirda bu sart kontrolunu yaparak duruma gore degeri dondurmemizi saglayan kalipsal operatordur.
+Donecek degerler ayni turde olmalidir.
+
+birden fazla durum kontrolunu
+Yasi 25 den kucuk olanlara A ,25 den buyuk olanlara B , 25 olaranlara c
+
+// int yas =26;
+// string gender ="male";
+// string sonuc = yas <25 ? "A" : yas == 25 ? "C" : gender == "male" ? "erkek": "kadin";
+// System.Console.WriteLine(sonuc);
+
+
+int deger =  sayi < 3 ? sayi*5 :sayi >3 && sayi<9 ? sayi*3 : (sayi>= 9 && sayi %2==0) ?sayi*10:sayi%2==1 ?sayi:-1;
+System.Console.WriteLine(deger);
+
+
+c# 9.0 da 
+polimorfizim kurallarina gore birbirlerinden tureyen degerlerde artik desteklenmektedir

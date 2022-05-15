@@ -1,0 +1,7 @@
+boxing edilmis bir veriyi kendi turunde elde etmemizi saglaya operatordur
+
+tur donusumlerinde cast operatoru kullanicaz
+kalitsal durumlarda da karsimiza cikacaktir
+
+
+"()" cast operatoru

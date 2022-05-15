@@ -1,0 +1,23 @@
+varsayilan degeri olaman degiskeni okuyamam cagiramam.
+main icerisinde tanimlanan degiskenlerde varsayilan deger atanmadigi icin manuel vermek zorundayiz.
+class icerisinde tan
+int a=5;
+int b = 10;
+int c=b;
+int d=a;
+b=a;
+c=b;
+System.Console.WriteLine(a);
+System.Console.WriteLine(b);
+
+(a,b)=(b,a);
+System.Console.WriteLine(a);
+System.Console.WriteLine(b);
+
+//
+int a=5;
+a=a;
+System.Console.WriteLine(a);
+
+
+va

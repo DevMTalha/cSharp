@@ -1,0 +1,2 @@
+bir degisken class scopu icinde tanimlaniyorsa buna global degisken diyoruz
+ 

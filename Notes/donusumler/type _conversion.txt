@@ -1,0 +1,21 @@
+yazilim surecicne elimmizdeki degerlerin turlerini degistirebilmekteyiz
+ornegin string olan bir ifade vardir "123"
+bu string degerini matematiksel bir islem yaptirmaya calsiirsak yapamayiz buyuzden tur donusumu yapmaliyiz
+
+1.seneryo ) Tur donusumleri elimizdeki verilerin fitratindaki/ mahiyetindeki ture uygun islemlere tabi tutabilmek icin uygulanabilir
+2.seneryo ) Farkli servislerden gelen degeleri uygun degerelere donusturmek isteyebiliriz
+3.seneryo ) Deger araligim yetersiz ise int -> decimal donusumu yapabiliris 
+
+Tur donusumlerinde amac turu degistirmektir yani elimizdeki ture uygun bir ture gecis yapmaktadir . elimizde veriyi uygun olmayan
+bir ture donusturmeye calisirsak bu mumkun degildir .
+
+elmayi armut olarak donusturmeyecegiz
+Amac veriyi degistirmek degildir amac elimizdeki veriyi karsilayacak farkli bir ture donusturmektir
+
+Ornekler
+
+(string) "436" -> int, ok . decimal  ok . bool ,wrong
+(string) "hilmi" - > int ,wrong . bool , wrong .char , wrong
+(string) "a" -> int , wrong .char ,ok
+(string) "true" -> bool ,ok. int ,wrong 
+(int) 123-> string , ok . char ok(istisna) . bool ,wrong.

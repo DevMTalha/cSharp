@@ -1,0 +1,13 @@
+using System;
+namespace ConsoleApp1
+{
+    
+    class program
+
+    {
+    static void Main(string []args){
+        System.Console.WriteLine("hello world");
+        Console.Read();
+    }
+    }
+}

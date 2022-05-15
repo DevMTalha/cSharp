@@ -1,0 +1,17 @@
+cast operatorunun unboxing islemi icin uyarlanmis bir operatordur
+
+as operatoru ile  unboxing yaparken turune uygun olmasi zaruri degildir 
+eger kir tur uygunsa unboxing islemi gerceklestirilecek hata vermiyecek  null deger donucektir
+sadece refenrence type  yapilarda gecerlidir
+akista kontrol edilmesine musade edecek ve islemi devam eedecektir 
+
+prototip
+
+
+
+object x =15;
+string y= x as string;
+
+[x as type]
+
+as operatoru tur oygun olmadigi taktirde geriye null donucegi icin bu null u karsilamayan deger turlu degiskenlerle calismayacaktir.

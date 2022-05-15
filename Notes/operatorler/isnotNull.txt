@@ -1,0 +1,2 @@
+is null operatorun degili seklinde calisir 
+is null gibi null alabilen turlerde kullanilabilir

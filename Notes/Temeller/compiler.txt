@@ -1,0 +1,15 @@
+//Compiler
+//////////
+
+c#->Assembly->Binary
+
+  Urunler
+.exe uzantili dosya = compiler urunudur
+.dll
+:dll: yazilimin kullanicagi yazilimlardir
+-reference olarak adlandirilir
+--
+nuget ile uzaktan cekilen kutuphanelere package denir
+
+//////////
+csc filename

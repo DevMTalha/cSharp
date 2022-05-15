@@ -1,0 +1,6 @@
+c# dil ozellikleri
+
+
+
+1. c# buyuk kucuk harf duyarliligi vardir
+2. c# type guvenligi olan bir dildir

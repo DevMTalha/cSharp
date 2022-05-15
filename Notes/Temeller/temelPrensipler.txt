@@ -1,0 +1,5 @@
+-Dont't repeat yourself
+Kendini tekrar etme
+-Meaningful naming
+Anlamli isimlendirme
+

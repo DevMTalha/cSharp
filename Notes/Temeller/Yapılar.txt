@@ -1,0 +1,11 @@
+Main Function:
+-sadece bir adet olmak zoruda
+
+
+
+
+
+Program.cs dosyasi
+-uygulamanin ayaga kalkabilmesi icin baslangic kodlarini bulundurur
+Baslangic codlari
+-baslangica dair komutlari barindiran bir insaa

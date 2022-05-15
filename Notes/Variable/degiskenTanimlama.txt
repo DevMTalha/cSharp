@@ -1,0 +1,9 @@
+int a = 5;
+int b = 10;
+
+
+
+ayni turden olmasi gerekir
+int a,b,c,d;
+int f=15,g=25,h=35,j=45;
+

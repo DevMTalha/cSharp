@@ -1,0 +1,10 @@
+debugging : hata ayiklama
+
+Breakpoint:debug'un basliyacagi nokta veya inceleyecegi noktalar
+F10  codu devam ettirir
+F5 programin akisina devam ettirir
+
+add watch:
+-debug calisirken variable'a sag tiklayip add watch diyerek variablari takip edebiliriz
+
+debugsiz uygulamayi calistirma

@@ -1,0 +1,25 @@
+parse fonksiyonu (metodu) sadece string bir veriyi digerlerine
+donustururken kullanilir
+string"123" 
+#dikkat parse sadece string veriyi donustururken
+donusum yapilacak verinin turune uygun bir hedef tur belirlenmelidir
+donusum run time da olr
+
+Parse ornegi
+
+string a ="123";
+sbyte donusum = sbyte.Parse(a); 
+
+Convert ornegi
+string x="25";
+var y= Convert.ToUInt32(x);
+
+string t ="3,14";
+double d  = Convert.ToDouble(t);
+
+ToString
+
+int a =25;
+string b = a.ToString();
+System.Console.WriteLine(a.ToString());
+System.Console.WriteLine(b);

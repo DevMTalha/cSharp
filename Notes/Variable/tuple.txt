@@ -1,0 +1,20 @@
+tek bir syntax uzerinde birden fazla degisken tanimlamamizi saglayan bir nesnedir
+
+
+(int a, int b, type c, type d)z;
+(int a, string b)c=(5,"ahmet);
+
+print(c.a) / c# versionu ile printlersek
+
+#region 
+//tuple
+
+(int a ,int b)c=(5,3);
+System.Console.WriteLine(c);
+(int yas,string adi,bool medeni)kisi=(24,"talha",true);
+System.Console.WriteLine(kisi);
+
+(int x ,char y )z;
+z=(5,'a');
+
+#endregion

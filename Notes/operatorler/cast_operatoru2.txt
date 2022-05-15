@@ -1,0 +1,10 @@
+Genellikle tur donusumu ile ilgili kullandik
+1.)  boximg -> unboxing
+object x = 123;
+int x2= (int)x;
+2.) bilincli tur donusumu 
+int a = 5;
+short b = (short)a;
+3.) char -> int  veya tersi  string a ="a"; cw(int(a));
+
+ılerıde polıformizim durumumda base class referansiyla isaretlenene nir nesneti kendi turundede elde edebilmemizi saglmaktadir.

@@ -1,0 +1,49 @@
+Dotnet Cli: asisstant
+.net SDK ile gelir
+
+-Cli icin file location onemli
+
+:dotnet new projecttype --name Projectname
+            console 
+            nvc
+            webapi
+
+
+:dotnet build    :derleme yapar ve Restore islemi yapar
+\bin\Debug\net version , dizini icinde dosyayi verir
+--
+:dotnet run :uygulamayi derler ve programi calistirir
+:dotnet run --no-build
+-derleme yapmadan calistirir
+--
+:dotnet help : comutlarin aciklamalarini veren bir komuttur
+:dotnet --force/ new kullanirken project ismi daha once var ise --force komutu ile zorlayabiliriz
+:dotnet restore :kaldirilan paketlerin resterasyonunu saglar
+:dotnet publish : projeyi derleyerek(once restore,sonra build) ,yayinlanacak ciktilari alir
+\bin\Debug\net ver\publish dizini icinde
+-.dll , .deps.json , .runtimeconfig.json
+--
+
+project modifikasyon komutlari
+-add package
+-add reference :bunlar dll'lerdir
+-remove package
+-remove reference
+-list reference
+
+
+:add: package: Nuget'ten  package/library cekilmesini saglar
+:add reference: Uygulamaya fiziksel bir dll dosyasini reference etmemizi saglar
+
+:dotnet add [source project].csproj reference [targete project].csproj
+-add reference ornegi--
+--
+
+:dotnet remove package [package name]
+:dotnet remove reference [reference name]
+
+:dotnet list reference
+-reference edilen tum paketleri listeler
+--
+
+:dotnet run "value"

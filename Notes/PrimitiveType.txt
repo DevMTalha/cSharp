@@ -1,0 +1,10 @@
+Value type
+
+:Deger turlu degiskenler  [value type]
+
+
+:Primitive type: byte bir primitive turdur
+ 
+-int
+-string
+-char

@@ -1,0 +1,2 @@
+elimizde bir degerin turune uygun elemanlarini fonksiyonlarono metodlarina propertylerini field erismemizi saglar
+

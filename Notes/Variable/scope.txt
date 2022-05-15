@@ -1,0 +1,31 @@
+//scope
+//Custom scope Line:28
+
+variablelarda ve functionlarda eriseblilirlik sinirini belirler
+bır scope ıcerısınde tanımlanan degıskene o scope ıcerısınde her yerde
+erisebılırız
+
+farkli scope'larda ayni isimden birden fazla degisken olabilir
+bir degisken tanimlandigi scope icerisinden eriseblilir ve kullanilabilir
+/////////////////////////////////////////////////////////////////////
+// {
+//         int a =5;
+// }
+
+// {
+// System.Console.WriteLine(a);
+// }
+
+
+{
+int a =5;
+        {
+        System.Console.WriteLine(a);
+        }
+        System.Console.WriteLine(a);
+}
+////////////////////////////////////////////////////////////////////////
+Custom scope:
+
+
+

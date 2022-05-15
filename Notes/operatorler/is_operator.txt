@@ -1,0 +1,6 @@
+boxıng'e tabi tutulmus oz turunu ogrenebilmek icin kullanilan  bir operatordur
+?---
+    object x = true;
+    System.Console.WriteLine(x is bool);
+-
+ileride if yapilarinda vs cok tercih etigimiz bir operator olacaktir

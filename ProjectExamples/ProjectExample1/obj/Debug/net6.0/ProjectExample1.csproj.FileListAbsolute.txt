@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\bin\Debug\net6.0\ProjectExample1.exe
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\bin\Debug\net6.0\ProjectExample1.deps.json
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\bin\Debug\net6.0\ProjectExample1.runtimeconfig.json
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\bin\Debug\net6.0\ProjectExample1.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\bin\Debug\net6.0\ProjectExample1.pdb
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.AssemblyInfo.cs
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\refint\ProjectExample1.dll
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.pdb
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ProjectExample1.genruntimeconfig.cache
+C:\Users\Talha\Documents\VsCodeC#\ProjectExamples\ProjectExample1\obj\Debug\net6.0\ref\ProjectExample1.dll

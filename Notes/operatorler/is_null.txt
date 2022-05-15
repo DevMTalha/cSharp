@@ -1,0 +1,9 @@
+is null operatoru bir degiskenin degerinin null olup olmadigini ogrenebilmemiz icin kullandigimiz bir operatordur 
+
+string a = null ; 
+ cw(a is null );
+
+ -
+sadece null olabilen turlerde kullnabiliriz 
+reference turlu degiskenlerde kullanabiliriz
+deger turlu degiskenler null degerler alamyiro dolayisiyla deger turlu degiskenlerde is null operatoru kullanilmaz1

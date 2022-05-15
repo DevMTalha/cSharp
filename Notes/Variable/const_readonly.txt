@@ -1,0 +1,19 @@
+    Const:
+
+-ozunde static yapilanmadir
+-static degiskenler adi uzerinde degiskendir
+-const ise sabittir
+
+const degisken_type degisken_adi= degisken_value; 
+-constlar istenildigi kadar okunabilir degerleri elde edilebilir
+
+
+
+
+
+------------------------
+    Readonly:
+
+-constructor icerisinde de degeri atanabilir.
+-dependency injection patterninde cok sik tercih edilir
+-static degildir

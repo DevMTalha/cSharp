@@ -1,0 +1,9 @@
+#region
+kodu kategorize hale getirmekte kullaniyoruz
+
+
+
+#endregion
+
+//todo [visual studioda gecerli]
+:ile task liste is eklenir

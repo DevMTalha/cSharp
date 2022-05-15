@@ -1,0 +1,19 @@
+Deger kendinden ust araliga donusturulurken bilincsiz donusum
+Deger kendinden alt bir araliga  donusturulurken bilincli
+donusum denir
+
+bir veriyi donusuturdugunuze egerki veri alt turun Deger
+araligina girmiyorsa ne olur ?
+-Veri kaybi soz konusu olacaktir
+
+Bilinciz ornek:
+int to float bilincsiz tur donusumu
+
+int x = 3000;
+float f = x;
+//
+Bilincli ornek:
+#cast operatoru ().
+ int x = 3000;           
+short y= (short)x;
+//

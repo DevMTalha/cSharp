@@ -1,0 +1,4 @@
+Project and Solution
+
+Project : Belirli amaclar uzere icerisinde  Code'larin tasindigi butundur.
+Solution : Birden fazla Project bulunduran evrensel kumedir.

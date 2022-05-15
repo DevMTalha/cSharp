@@ -1,0 +1,10 @@
+Herbir karaterin bir sayisal degeri vardir
+Bu deger Ascii degeri denir
+
+Tum tam sayisal degerlerde yapilir
+char a ='a';
+int _a = (int)a;
+
+
+int oascii=111;
+int Oascii=79;

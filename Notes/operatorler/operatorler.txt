@@ -1,0 +1,22 @@
+genellikle iki deger arasinda matematiksel , mantiksal yahut farkli bir islemsel gorev yapan yapilardir
+
+operatorler genellikle yaptiklari islem neticesinde bir sonuc donerler
+
+operatorleri kullanirken geriye donus degerlerine dikkat edilmesi gerekmektedir
+
+aritmatik  "+,-,=,/,*,%"
+karsilastirma">,<,<=,>=,==,!"
+
+mantiksal"||,&&,^"
+diger.ozel islemler
+
+
+ıkı deger arasında yapılan arıtmatık ıslemlerde alanı genıs olan deger tipinde bır donus saglanır
+
+byte ıle byte arasında yapılan ıslemde mutlaka ınt donus tipinde  saglanır
+matematik kurallari yazilimdada gecerlidir
+
+
+string bir ifadeyle "+"operatoru kullanarak 
+
+

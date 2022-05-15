@@ -1,0 +1,5 @@
+sync /sirali(duzenli) 
+async /duzensiz
+
+Yazilimlar varsayilan olarak syncron calisirlar
+

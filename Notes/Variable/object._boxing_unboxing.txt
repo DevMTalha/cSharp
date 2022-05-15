@@ -1,0 +1,7 @@
+object ana turdur
+
+diger turler object'ten turemistir
+
+bir deger turlu degiskeni object icine almaya: boxing
+bir objectden boxinglenmis bir degeri kendi deger turunde 
+disariya cikarmaya :unboxing denir

@@ -1,0 +1,14 @@
+default keyword'u variablin default degerini dondurur
+
+
+bool x=default(bool);
+int y=default(int);
+string z = default(string);
+char t=default(char);
+
+// artik bu kullanimda gecerli
+bool x =default;
+int y=default;
+string z = default;
+char t=default;
+

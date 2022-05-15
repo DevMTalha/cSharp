@@ -1,0 +1,11 @@
+Class icinde tanimlanan degiskenlerin default degerleri atanir
+
+string :null /degersiklik ... / degersiklik ile bos deger farklidir
+char :'0' /
+bool:false
+
+
+
+bool x=default(bool);
+System.Console.WriteLine(x);
+

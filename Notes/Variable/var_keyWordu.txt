@@ -1,0 +1,4 @@
+var key wordu  automatic bir type belirleme yapabilmemizii saglar
+amaci farkli yazilim dillerinden alinan verilerin tipini karsilayabilmemizi saglar
+
+var keywordu ile tanimlanan variablelarin baslangic degeri verilmeli ki type secilsin

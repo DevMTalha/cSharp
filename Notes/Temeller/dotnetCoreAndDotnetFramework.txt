@@ -1,0 +1,17 @@
+.net
+Gelistiriciler icin sundugu platform(bir çati)
+
+.net FrameWork
+//////////////////
+-ilk cikan surum
+-sadece windows icin gecerlidir
+-opensource degildi
+
+
+.net Core -core5 -core6
+//////////////////
+-cross platform
+-heryerde calistirilabilen uygulamar gelistirilebilecek bir platform
+-opensource
+-moduler libraries
+

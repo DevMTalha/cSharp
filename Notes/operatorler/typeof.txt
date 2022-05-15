@@ -1,0 +1,4 @@
+verile turun degerini typini getirir
+
+ileri duzey programlamada reflection dedigimiz bir konuda elimizdeki bir turun reflectionuna girmek icin kullandigimizi 
+gorucez

@@ -1,0 +1,5 @@
+typeof
+IsPrimitive
+
+String is reference type variable
+
