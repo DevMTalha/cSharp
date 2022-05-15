@@ -13,10 +13,6 @@ namespace Name
         static void Main(){
 
 
-        int x =3;
-
-    
-
 
 
 
